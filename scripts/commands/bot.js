@@ -73,7 +73,7 @@ module.exports = {
           if (error) {
             return nayan.reply('An error occurred while processing your request. Please try again later.', events.threadID, events.messageID);
           }
-body: `🍁🌼🌹 ${name} 🌹🌼🍁\n\n 👉${rand} \n\n                            *★᭄𝗢𝘄𝗻𝗲𝗿 ཫ༄𒁍≛⃝𝐌𝐫..𝐍𝐀𝐃𝐀𝐍🍒`
+
           global.client.handleReply.push({
             type: 'reply',
             name: this.config.name,
