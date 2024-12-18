@@ -9,17 +9,17 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "nayan-bot",
-  "PREFIX": "/",
+  "BOTNAME": "NADAN HU",
+  "PREFIX": "+",
   "OPERATOR": [
-    "100014896964436",
-    "100000959749712"
+    "100055039334431",
+    "100080952386176"
   ],
   "ADMINBOT": [
-    "100000959749712",
+    "100055039334431",
     ""
   ],
-  "OWNER": ["100000959749712"], 
+  "OWNER": ["100080952386176"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
